@@ -3,6 +3,7 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .idea
+.iml
 
 ### Eclipse ###
 .apt_generated
@@ -28,3 +29,19 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Ignorar IDEs
+.idea/
+*.iml
+
+# Ignorar saídas de build e cache
+out/
+build/
+target/
+bin/
+
+*
+# Exceto os arquivos/pastas a serem versionados
+!.gitignore
+!README.md
+!src/**
