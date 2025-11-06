@@ -1,4 +1,4 @@
-package com.colecoes.pilhas;
+package br.com.george.estudos.pilhas;
 
 import java.util.ArrayList;
 import java.util.List;

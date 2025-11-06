@@ -1,4 +1,4 @@
-package com.colecoes.filas;
+package br.com.george.estudos.filas;
 
 public class TestQueue {
     public static void main(String[] args) {

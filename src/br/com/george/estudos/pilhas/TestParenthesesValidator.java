@@ -1,4 +1,4 @@
-package com.colecoes.pilhas;
+package br.com.george.estudos.pilhas;
 
 public class TestParenthesesValidator {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.colecoes.filas;
+package br.com.george.estudos.filas;
 
 import java.util.ArrayList;
 import java.util.List;
